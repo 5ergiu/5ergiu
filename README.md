@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hey there!👋 I'm Sergiu.</h2>
 
-<!--
-**Bucegos/Bucegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing web apps.
+- 💼 &nbsp; Working as a Full-stack Web Developer at Dinnerbooking.com.
+- 🌱 &nbsp; Learning more about React, Redux and other technologies used in front-end applications.
+- 💪 &nbsp; I love new challenges and constantly set goals for myself, because I believe it's very important to keep evolving and improve.
+- ⚡ &nbsp; Fun fact: When I was a kid, I wanted to become an archeologist just because I watched 'Indiana Jones'...(🤫 I think I still do🤔).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; PHP | Symfony
+- 🌐 &nbsp; HTML | CSS | JavaScript | SASS | Bootstrap | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown
+- 🖥 &nbsp; Photoshop
+
+<br/>
+
+[![Sergiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bucegos&show_icons=true)](https://github.com/Bucegos)
+
+⭐️ From [Sergiu](https://github.com/Bucegos)
