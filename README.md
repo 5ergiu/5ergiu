@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; PHP | Laravel && Symfony
-- 🌐 &nbsp; HTML | CSS | JavaScript | SASS | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | SASS/CSS | JavaScript | jQuery | Bootstrap | React
 - 🛢 &nbsp; MySQL | MSSQL
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Photoshop
