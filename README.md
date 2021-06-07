@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Symfony
+- 💻 &nbsp; PHP | Laravel && Symfony
 - 🌐 &nbsp; HTML | CSS | JavaScript | SASS | Bootstrap | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | MSSQL
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Photoshop
 
