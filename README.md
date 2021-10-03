@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; PHP | Laravel && Symfony
 - 🌐 &nbsp; HTML | SASS/CSS | JavaScript | jQuery | Bootstrap | React
-- 🛢 &nbsp; MySQL | MSSQL
+- 🛢 &nbsp; SQL
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Photoshop
 
