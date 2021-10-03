@@ -17,6 +17,6 @@
 
 <br/>
 
-[![Sergiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5ergiu&show_icons=true)](https://github.com/Bucegos)
+[![Sergiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5ergiu&show_icons=true)](https://github.com/5ergiu)
 
 ⭐️ From [Sergiu](https://github.com/5ergiu)
